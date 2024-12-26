@@ -30,3 +30,6 @@ bin/
 
 ### IntelliJ ###
 .idea
+
+### iml files (IntelliJ) ###
+.iml
